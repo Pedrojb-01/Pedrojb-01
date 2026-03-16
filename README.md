@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pedro Jardim Braz
+# Olá! Eu sou o Pedro Jardim Braz 👋
 
 **Estudante de ADS | Python | Back-end**
 
@@ -12,17 +12,20 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília, em Santos/SP. Apaixonado por programação e com foco em desenvolvimento back-end. Atualmente aprofundando meus conhecimentos em Python, lógica de programação e estruturas de dados.
+Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento de software e foco na área de back-end. Atualmente estou aprofundando meus conhecimentos em programação, lógica e conceitos de arquitetura de sistemas, aplicando esse aprendizado no desenvolvimento de projetos práticos.
+
+Tenho interesse em entender de forma mais profunda o funcionamento dos sistemas e em criar soluções eficientes para diferentes problemas. Busco oportunidades para continuar aprendendo, colaborar com outros profissionais da área e adquirir experiência prática no desenvolvimento de software.
 
 ---
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -30,29 +33,27 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecíl
 
 ---
 
-## 📚 Atualmente aprendendo
+### 📂 Projetos
 
-- 🐍 Python — lógica, estruturas de dados, funções
-- ⚙️ Lógica de programação
-- 🔧 Git & GitHub — controle de versão
+<table>
+  <tr>
+    <td align="left">
+      <strong>🤖 Bot do Discord</strong><br/>
+      Bot criado em equipe para automação no Discord — comandos, APIs e integração em tempo real.<br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Em%20andamento-FFA500?style=flat"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Projetos
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 🤖 Bot do Discord | Bot criado em equipe para automação no Discord | Python, discord.py |
-
----
-
-## 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrojb-01&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojb-01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrojb-01&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&hide=contribs&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojb-01&layout=compact&hide_border=true&locale=pt-br&card_width=320&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff)
 
 </div>
 
