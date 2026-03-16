@@ -12,15 +12,13 @@
 
 ---
 
-## 👨‍💻 Sobre mim | About me
+## 👨‍💻 Sobre mim
 
-🇧🇷 **PT** — Estudante de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília, em Santos/SP. Apaixonado por programação e com foco em desenvolvimento back-end. Atualmente aprofundando meus conhecimentos em Python, lógica de programação e estruturas de dados.
-
-🇺🇸 **EN** — Systems Analysis and Development student at Universidade Santa Cecília, in Santos/SP, Brazil. Passionate about programming with a focus on back-end development. Currently deepening my knowledge in Python, programming logic, and data structures.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília, em Santos/SP. Apaixonado por programação e com foco em desenvolvimento back-end. Atualmente aprofundando meus conhecimentos em Python, lógica de programação e estruturas de dados.
 
 ---
 
-## 🛠️ Tecnologias | Technologies
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -32,15 +30,15 @@
 
 ---
 
-## 📚 Atualmente aprendendo | Currently learning
+## 📚 Atualmente aprendendo
 
-- 🐍 Python — lógica, estruturas de dados, funções | logic, data structures, functions
-- ⚙️ Lógica de programação | Programming logic
-- 🔧 Git & GitHub — controle de versão | version control
+- 🐍 Python — lógica, estruturas de dados, funções
+- ⚙️ Lógica de programação
+- 🔧 Git & GitHub — controle de versão
 
 ---
 
-## 📂 Projetos | Projects
+## 📂 Projetos
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
