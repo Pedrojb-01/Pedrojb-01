@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About me
 
-Systems Analysis and Development student at Unisanta, focused on back-end development with JavaScript and Node.js and interested in application security. 
+Systems Analysis and Development student at Unisanta, focused on back-end development with JavaScript and Node.js and interested in application security.
 
 I have hands-on experience building REST APIs, JWT authentication, third-party API integrations, and complete web applications.
 
@@ -54,6 +54,9 @@ I'm looking for an internship where I can keep growing as a developer and contri
       <a href="https://mio-l8hy.onrender.com">Live demo</a> | <a href="https://github.com/Pedrojb-01/mio">Code</a>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td align="left">
       <strong>⚖️ Law Firm Management System</strong><br/>
@@ -63,6 +66,9 @@ I'm looking for an internship where I can keep growing as a developer and contri
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td align="left">
       <strong>🤖 Discord Bot</strong><br/>
