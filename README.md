@@ -14,7 +14,9 @@
 
 ### 👨‍💻 About me
 
-Systems Analysis and Development student at Unisanta, focused on back-end development with JavaScript and Node.js and interested in application security. I have hands-on experience building REST APIs, JWT authentication, third-party API integrations, and complete web applications.
+Systems Analysis and Development student at Unisanta, focused on back-end development with JavaScript and Node.js and interested in application security. 
+
+I have hands-on experience building REST APIs, JWT authentication, third-party API integrations, and complete web applications.
 
 I'm looking for an internship where I can keep growing as a developer and contribute to real software projects.
 
