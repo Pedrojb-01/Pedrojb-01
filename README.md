@@ -51,7 +51,8 @@ I'm looking for an internship where I can keep growing as a developer and contri
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/><br/><br/>
-      <a href="https://mio-l8hy.onrender.com">Live demo</a> | <a href="https://github.com/Pedrojb-01/mio">Code</a>
+      <a href="https://mio-l8hy.onrender.com"><img src="https://img.shields.io/badge/Live%20demo-Open-2EA44F?style=flat&logo=render&logoColor=white"/></a>
+      <a href="https://github.com/Pedrojb-01/mio"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -75,7 +76,7 @@ I'm looking for an internship where I can keep growing as a developer and contri
       Discord bot built as a team: commands, external APIs, and real-time interaction.<br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white"/><br/><br/>
-      <a href="https://github.com/enzoka27/discord_bot">Code</a>
+      <a href="https://github.com/enzoka27/discord_bot"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
