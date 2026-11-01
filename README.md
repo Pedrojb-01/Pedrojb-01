@@ -42,7 +42,7 @@ I'm looking for an internship where I can keep growing as a developer and contri
 
 ### 📂 Projects
 
-<table width="100%">
+<table>
   <tr>
     <td align="left">
       <strong>✨ Mio: AI content assistant for Instagram</strong><br/>
@@ -52,25 +52,13 @@ I'm looking for an internship where I can keep growing as a developer and contri
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/><br/><br/>
       <a href="https://mio-l8hy.onrender.com"><img src="https://img.shields.io/badge/Live%20demo-Open-2EA44F?style=flat&logo=render&logoColor=white"/></a>
       <a href="https://github.com/Pedrojb-01/mio"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td align="left">
+      <hr/>
       <strong>⚖️ Law Firm Management System</strong><br/>
       Full-stack web app for client and payment management, with an interactive dashboard. Private repository because it contains client data.<br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td align="left">
+      <hr/>
       <strong>🤖 Discord Bot</strong><br/>
       Discord bot built as a team: commands, third-party APIs, and real-time interaction.<br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
