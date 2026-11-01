@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá! Eu sou o Pedro Jardim Braz 👋
+# Hi! I'm Pedro Jardim Braz 👋
 
-**Estudante de ADS | Python | Back-end**
+**Systems Analysis and Development Student | Back-end | Node.js**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Jardim%20Braz-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-jardim-braz)
 [![GitHub](https://img.shields.io/badge/GitHub-Pedrojb--01-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pedrojb-01)
@@ -12,20 +12,26 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About me
 
-Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento de software e foco na área de back-end. Atualmente estou aprofundando meus conhecimentos em programação, lógica e conceitos de arquitetura de sistemas, aplicando esse aprendizado no desenvolvimento de projetos práticos.
+Systems Analysis and Development student at Unisanta, focused on back-end development with JavaScript and Node.js and interested in application security. I have hands-on experience building REST APIs, JWT authentication, third-party API integrations, and complete web applications.
 
-Tenho interesse em entender de forma mais profunda o funcionamento dos sistemas e em criar soluções eficientes para diferentes problemas. Busco oportunidades para continuar aprendendo, colaborar com outros profissionais da área e adquirir experiência prática no desenvolvimento de software.
+I'm looking for an internship where I can keep growing as a developer and contribute to real software projects.
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tech stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -33,34 +39,35 @@ Tenho interesse em entender de forma mais profunda o funcionamento dos sistemas 
 
 ---
 
-### 📂 Projetos
+### 📂 Projects
 
 <table>
   <tr>
     <td align="left">
-      <strong>🤖 Bot do Discord</strong><br/>
-      Bot criado em equipe para automação no Discord — comandos, APIs e integração em tempo real.<br/><br/>
+      <strong>✨ Mio: AI content assistant for Instagram</strong><br/>
+      Full-stack AI assistant built for the IBM SkillsBuild AI Builders Challenge (2026). It remembers the user's business context and suggests personalized content.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Em%20andamento-FFA500?style=flat"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/><br/><br/>
+      <a href="https://mio-l8hy.onrender.com">Live demo</a> | <a href="https://github.com/Pedrojb-01/mio">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>⚖️ Law Firm Management System</strong><br/>
+      Full-stack web app for client and payment management, with an interactive dashboard. Private repository because it contains client data.<br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>🤖 Discord Bot</strong><br/>
+      Discord bot built as a team: commands, external APIs, and real-time interaction.<br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white"/><br/><br/>
+      <a href="https://github.com/enzoka27/discord_bot">Code</a>
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrojb-01&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&hide=contribs&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojb-01&layout=compact&hide_border=true&locale=pt-br&card_width=320&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-*"Ainda tenho muito a aprender, mas estou comprometido com cada passo dessa jornada." 🚀*
-
-</div>
