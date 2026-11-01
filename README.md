@@ -5,7 +5,6 @@
 **Systems Analysis and Development Student | Back-end | Node.js**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Jardim%20Braz-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-jardim-braz)
-[![GitHub](https://img.shields.io/badge/GitHub-Pedrojb--01-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pedrojb-01)
 [![Gmail](https://img.shields.io/badge/Gmail-pedrojbraz2007@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedrojbraz2007@gmail.com)
 
 </div>
@@ -48,8 +47,8 @@ I'm looking for an internship where I can keep growing as a developer and contri
     <td align="left">
       <strong>✨ Mio: AI content assistant for Instagram</strong><br/>
       Full-stack AI assistant built for the IBM SkillsBuild AI Builders Challenge (2026). It remembers the user's business context and suggests personalized content.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/><br/><br/>
       <a href="https://mio-l8hy.onrender.com"><img src="https://img.shields.io/badge/Live%20demo-Open-2EA44F?style=flat&logo=render&logoColor=white"/></a>
       <a href="https://github.com/Pedrojb-01/mio"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
