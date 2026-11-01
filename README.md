@@ -42,7 +42,7 @@ I'm looking for an internship where I can keep growing as a developer and contri
 
 ### 📂 Projects
 
-<table>
+<table width="100%">
   <tr>
     <td align="left">
       <strong>✨ Mio: AI content assistant for Instagram</strong><br/>
@@ -56,7 +56,7 @@ I'm looking for an internship where I can keep growing as a developer and contri
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td align="left">
       <strong>⚖️ Law Firm Management System</strong><br/>
@@ -68,11 +68,11 @@ I'm looking for an internship where I can keep growing as a developer and contri
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td align="left">
       <strong>🤖 Discord Bot</strong><br/>
-      Discord bot built as a team: commands, external APIs, and real-time interaction.<br/><br/>
+      Discord bot built as a team: commands, third-party APIs, and real-time interaction.<br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white"/><br/><br/>
       <a href="https://github.com/enzoka27/discord_bot"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
